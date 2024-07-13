@@ -1,0 +1,9 @@
+Если же вы еще не погружались в тему параллельного программирования и программирования на Python в общем, то вот несколько книг, которые вам в этом помогут:
+
+Learning Python. Mark Lutz, David Asche
+
+Programming Python. Mark Lutz
+
+Python Cookbook, Third Edition. David Beazley, Brian Jones
+
+Python Parallel Programming Cookbook. Giancarlo Zaccone

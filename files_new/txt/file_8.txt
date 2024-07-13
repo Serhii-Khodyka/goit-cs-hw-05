@@ -1,0 +1,6 @@
+Результат:
+
+Plain. Inside demoFunction:  [1, 2, 3, 4]
+After "demoFunction" without multiprocessing [1, 2, 3, 4]
+Multiprocessing. Inside demoFunction:  [1, 2, 3, 4, 5]
+After "demoFunction" with multiprocessing [1, 2, 3, 4]
